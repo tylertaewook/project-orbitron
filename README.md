@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email
+*** tylertaewook, project-orbitron, alitecraft, taewook.kim@columbia.edu
 -->
 
 
@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/tylertaewook/project-orbitron">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -43,14 +43,14 @@
   <p align="center">
     A unique control algorithm in Mathematica for 4WIS/WID vehicles
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/tylertaewook/project-orbitron">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/tylertaewook/project-orbitron/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/tylertaewook/project-orbitron/issues">Request Feature</a>
   </p>
 </p>
 
@@ -73,7 +73,7 @@
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+`tylertaewook`, `project-orbitron`, `alitecraft`, `taewook.kim@columbia.edu`
 
 
 ### Built With
@@ -85,9 +85,9 @@ Here's a blank template to get started:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Your Name - [@alitecraft](https://twitter.com/alitecraft) - taewook.kim@columbia.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.com/tylertaewook/project-orbitron)
 
 
 
@@ -104,16 +104,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/tylertaewook/repo.svg?style=flat-square
+[contributors-url]: https://github.com/tylertaewook/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/tylertaewook/repo.svg?style=flat-square
+[forks-url]: https://github.com/tylertaewook/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/tylertaewook/repo.svg?style=flat-square
+[stars-url]: https://github.com/tylertaewook/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/tylertaewook/repo.svg?style=flat-square
+[issues-url]: https://github.com/tylertaewook/repo/issues
+[license-shield]: https://img.shields.io/github/license/tylertaewook/repo.svg?style=flat-square
+[license-url]: https://github.com/tylertaewook/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/tylertaewook
 [product-screenshot]: images/screenshot.png
