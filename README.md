@@ -22,20 +22,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/tylertaewook/project-orbitron">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    
   </a>
 
   <h3 align="center">Project Orbitron</h3>
@@ -69,11 +61,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Orbitron](/images/orbitron1.jpeg)
 
 Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`tylertaewook`, `project-orbitron`, `alitecraft`, `taewook.kim@columbia.edu`
 
 
 ### Built With
@@ -85,7 +75,7 @@ Here's a blank template to get started:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@alitecraft](https://twitter.com/alitecraft) - taewook.kim@columbia.edu
+Tyler Kim - taewook.kim@columbia.edu
 
 Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.com/tylertaewook/project-orbitron)
 
