@@ -72,8 +72,6 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`tylertaewook`, `project-orbitron`, `alitecraft`, `taewook.kim@columbia.edu`
 
 
 ### Built With
@@ -85,7 +83,7 @@ Here's a blank template to get started:
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@alitecraft](https://twitter.com/alitecraft) - taewook.kim@columbia.edu
+Tyler Kim - taewook.kim@columbia.edu
 
 Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.com/tylertaewook/project-orbitron)
 
