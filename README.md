@@ -121,6 +121,8 @@ This build note summarizes the three-month journey. For more detailed Build/Rese
 
 ![Body Design](/images/Orbitron/designbody.png)
 
+Initial design was 
+
 ![Body Structure](/images/Orbitron/structure.jpeg)
 
 ![Folded](/images/Orbitron/folded.jpeg)
