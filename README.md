@@ -55,6 +55,8 @@
   * [Orbitron](#orbitron)
   * [Algorithm](#algorithm)
 * [Build Notes](#build-notes)
+  * [Spherical Wheels](#spherical-wheels)
+  * [Main Body](#main-body)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -101,6 +103,33 @@ Similar to the C# WinForms application, this algorithm communicates with Orbitro
 <!-- BUILD NOTES -->
 ## Build Notes
 
+This build note summarizes the three-month journey. For more detailed Build/Research Notebook, click **[HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Research-Notebook.pdf)
+
+<!-- SPHERICAL WHEELS -->
+### Spherical Wheels
+
+![Wheel Design](/images/Orbitron/designwheel.png)
+
+![Inside the Wheel](/images/Orbitron/insidewheel.jpeg)
+
+![Wheel](/images/Orbitron/wheel1.jpeg)
+
+![Servo Motor](/images/Orbitron/servo.jpeg)
+
+<!-- MAIN BODY -->
+### Main Body
+
+![Body Design](/images/Orbitron/designbody.png)
+
+Initial design was 
+
+![Body Structure](/images/Orbitron/structure.jpeg)
+
+![Folded](/images/Orbitron/folded.jpeg)
+
+![Part List](/images/Orbitron/partlist.png)
+
+For more detailed parts list with prices, click [HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Parts%20List.pdf)
 
 
 <!-- CONTACT -->
@@ -115,9 +144,8 @@ Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Dr. Ben Nadire, Guild Advisor]()
+* [Mr. Kevin Saxton, AP Computer Science Instructor]()
 
 
 
