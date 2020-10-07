@@ -52,25 +52,42 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [Orbitron](#built-with)
+  * [Algorithm](#built-with)
+* [Build Notes](#build-notes)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
+================================================================
+> **[[LINK - MAKER PORTFOLIO]](https://youtu.be/WXjisSnfGTI)**
 
+================================================================
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Project Orbitron is an independent build/research project done in December 2017 - March 2018. 
+The project began as a simple yet powerful urge to build a vehicle with spherical wheels after being inspired by [Goodyear 360](https://youtu.be/oSFYwDDVgac) but soon evolved into a research project under Kent Guild, academic society at Kent School, after realizing vehicle's potential. After presenting a project proposal in front of Kent Pre-Engineering Department, Project Orbitron was granted with $1,000 fund.
+ 
+The project is divided into two big components:
+* Building a vehicle with a spherical wheel that implements a 4 wheel independent steering/driving system in Arduino and C# Winform Application.
+* Development of a unique control algorithm in Mathematica
+
+<!-- ORBITRON -->
+### Orbitron
+
 ![Orbitron](/images/orbitron1.jpeg)
 
-Here's a blank template to get started:
 
 
-### Built With
+<!-- ALGORITHM -->
+### Algorithm
 
-* [Arduino]()
-* [Mathematica]()
-* [C# WinForms]()
+![Mathematica Algorithm](/images/Software/alg_GUI.png)
+
+<!-- BUILD NOTES -->
+## Build Notes
+
 
 <!-- CONTACT -->
 ## Contact
