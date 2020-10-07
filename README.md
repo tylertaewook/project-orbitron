@@ -103,6 +103,8 @@ Similar to the C# WinForms application, this algorithm communicates with Orbitro
 <!-- BUILD NOTES -->
 ## Build Notes
 
+This build note summarizes the three-month journey. For more detailed Build/Research Notebook, click **[HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Research-Notebook.pdf)
+
 <!-- SPHERICAL WHEELS -->
 ### Spherical Wheels
 
@@ -125,7 +127,7 @@ Similar to the C# WinForms application, this algorithm communicates with Orbitro
 
 ![Part List](/images/Orbitron/partlist.png)
 
-For more detailed parts list with prices, click [HERE](/part list.pdf)
+For more detailed parts list with prices, click [HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Parts%20List.pdf)
 
 
 <!-- CONTACT -->
