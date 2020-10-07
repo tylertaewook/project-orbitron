@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tylertaewook/project-orbitron">
-     <img src="Images/logo.PNG" alt="Logo" width="120" height="120">
+     <img src="images/logo.PNG" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Project Orbitron</h3>
