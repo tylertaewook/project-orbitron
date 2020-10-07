@@ -57,6 +57,7 @@
 * [Build Notes](#build-notes)
   * [Spherical Wheels](#spherical-wheels)
   * [Main Body](#main-body)
+* [Research](#research)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
@@ -85,7 +86,7 @@ The project is divided into two big components:
 Simply put, Orbitron is a vehicle with spherical wheels. The spherical wheels allow the efficient implementation of a 4WIS/4WID (4 Wheel Independent Steering/Driving) system. 4WIS/4WID is a steering system for a four-wheeled vehicle that allows for separate speed and direction controls for each wheel.
 To accomplish this, each wheel has two separate motors each controlling speed and direction.
 
-![Orbitron](/images/Software/test_GUI.png)
+![Test Program](/images/Software/test_GUI.jpeg)
 
 While building the Orbitron, a simple C# WinForms application was developed. This application communicates with Orbitron via XBee wireless module and controls simple movements to ensure every component is working properly.
 
@@ -96,6 +97,8 @@ While building the Orbitron, a simple C# WinForms application was developed. Thi
 
 This intuitive control algorithm written in Mathematica is an attempt to control a 4WIS/4WID vehicle requiring intuitive yet simultaneous control of eight different parameters. I used 3dconnexion's [Spacemouse](https://3dconnexion.com/us/product/spacemouse-compact/) as an input device, and its inputs were integrated coherently by modeling the vehicle's movement as a motion along a circular path, where a straight-line motion is calculated as a motion along a circle of very large radius.
 
+> **The full article, poster, and presentation can be found [HERE](https://github.com/tylertaewook/project-orbitron/tree/main/Final%20Deliverables)**
+
 ![XBee Module](/images/Orbitron/xbee.jpeg)
 
 Similar to the C# WinForms application, this algorithm communicates with Orbitron via XBee module. The XBee module integrated in Orbitron's Arduino shield allows maximum range of one mile.
@@ -103,7 +106,9 @@ Similar to the C# WinForms application, this algorithm communicates with Orbitro
 <!-- BUILD NOTES -->
 ## Build Notes
 
-This build note summarizes the three-month journey. For more detailed Build/Research Notebook, click **[HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Research-Notebook.pdf)
+This build note summarizes the three-month journey. 
+
+> **For more detailed Build/Research Notebook, click [HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Research-Notebook.pdf)**
 
 <!-- SPHERICAL WHEELS -->
 ### Spherical Wheels
@@ -130,16 +135,41 @@ Initial design was sketched on paper and soon moved to Fusion 360 CAD design. Th
 
 ![Body Structure](/images/Orbitron/structure.jpeg)
 
-I built the body out of MDF board at first, but it proved to be too heavy. Therefore, the final body was made of PVC Foamex board which was lighter and stronger. In order to support its entire weight more stabily, PVC tubes were screwed in.
+I built the body out of MDF board at first, but it proved to be too heavy. Therefore, the final body was made of PVC Foamex board which was lighter and stronger. Finally, PVC tubes were screwed onto the body to support its entire weight more stably
 
 ![Folded](/images/Orbitron/folded.jpeg)
 
-To work on this project during summer vacation when I flied back to Korea, the body was carefully designed to be folded. This made it much easier for overseas shipping without breaking any of the components. When shipped, each wheel structure was detached from body and packaged separately.
+To continue working on this project during summer vacation when I flied back to Korea, the body was carefully designed to be folded. This made it much easier for overseas shipping without breaking any of the components. When shipped, each wheel structure was detached from body and packaged separately.
 
-![Part List](/images/Orbitron/partlist.png)
+![Problem-Solving](/images/Orbitron/deskocr.png)
 
-For more detailed parts list with prices, click [HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Parts%20List.pdf)
+As this was the largest build project I have done so far, I encountered many MANY issues along the journey. One of the biggest challenges was suppressing strong electromagnetic interferrence from DC motors where I tried everything from visiting Seoul National University Lab to trying every EMI components. This month-long journey eventually made it into my personal statement essay during college admissions.
 
+![Parts List](/images/Orbitron/partlist.png)
+
+**For more detailed parts list with prices, click [HERE](https://github.com/tylertaewook/project-orbitron/blob/main/Parts%20List.pdf)**
+
+
+<!-- Research -->
+## Research
+
+The research of intuitive control algorithm took approximately three months, from Jan 2018 to March 2018. In this short time, I taught myself Mathematica from scratch, finished the algorithm, wrote a full paper, and presented to both Kent Guild and Connecticut Science and Engineering Fair.
+As a result, I was accepted to be one of three student members in Kent Guild, an academic society at Kent, and I was awarded with sevel awards from CT Science Fair.
+
+> **The full article, poster, and presentation can be found [HERE](https://github.com/tylertaewook/project-orbitron/tree/main/Final%20Deliverables)**
+
+Kent News Feature (yes, TWO TIMES!)
+* [Kent News - Guild Presentation](https://kentnews.org/2525/features/a-guild-presentation-by-tyler-kim-20/)
+* [Kent News - CT Science Fair](https://kentnews.org/2382/features/an-outstanding-performance-at-the-71st-annual-connecticut-science-and-engineering-fair/)
+
+List of Awards (CT Science Fair)
+* United Technologies Corporation Awards
+* IEEE, Connecticut Section
+* Robotics And Beyond — For Excellence in Engineering Design
+* Barker Mohandas Awards for Transportation Research
+* Lockheed Martin Physical Sciences Awards
+* Computer Science Awards
+* Collins Aerospace Engineering Awards
 
 <!-- CONTACT -->
 ## Contact
