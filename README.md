@@ -110,22 +110,31 @@ This build note summarizes the three-month journey. For more detailed Build/Rese
 
 ![Wheel Design](/images/Orbitron/designwheel.png)
 
-![Inside the Wheel](/images/Orbitron/insidewheel.jpeg)
+After an initial sketch of spherical wheel structure, the same design was modeled in Fusion 360. The CAD design was later modified from circular frame to rectangular frame to make woodworking easier. 
+This design has two motors for each wheel. The HS-785HB servo with built-in gearbox on the top allows to control the wheel's direction by turning the entire rectangular structure. The 170-RPM Econ Gear Motor directly connected to sphere's shaft takes care of actually driving the wheel and controlling its speed.
 
 ![Wheel](/images/Orbitron/wheel1.jpeg)
 
+This is the photo of a finished wheel taken in Kent School's Pre-Engineering Center. As wheel structure required boring many holes and cutting solid wood, most of the work was done with Pre-E center's powertools.
+
 ![Servo Motor](/images/Orbitron/servo.jpeg)
+
+This is the [HS-785HB Servo](https://www.servocity.com/hs-785hb-servo/) with its 7:1 ratio metal gearbox. This certain servo has a range of 2880 degrees, unlike normal servo's 180 degrees range, which allows for almost 360 degree movement even with the gearbox.
 
 <!-- MAIN BODY -->
 ### Main Body
 
 ![Body Design](/images/Orbitron/designbody.png)
 
-Initial design was 
+Initial design was sketched on paper and soon moved to Fusion 360 CAD design. The body is shaped like two big 'H' glued together to have room for each spherical wheels.
 
 ![Body Structure](/images/Orbitron/structure.jpeg)
 
+I built the body out of MDF board at first, but it proved to be too heavy. Therefore, the final body was made of PVC Foamex board which was lighter and stronger. In order to support its entire weight more stabily, PVC tubes were screwed in.
+
 ![Folded](/images/Orbitron/folded.jpeg)
+
+To work on this project during summer vacation when I flied back to Korea, the body was carefully designed to be folded. This made it much easier for overseas shipping without breaking any of the components. When shipped, each wheel structure was detached from body and packaged separately.
 
 ![Part List](/images/Orbitron/partlist.png)
 
