@@ -34,6 +34,8 @@
 
   <p align="center">
     A 4WIS/4WID Vehicle with Spherical Wheels & A unique control algorithm in Mathematica
+    <p align="center">
+      December 2017 - May 2018
     <br />
     <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project Orbitron is an independent build/research project done in December 2017 - March 2018. 
+Project Orbitron is an independent build/research project featuring a vehicle with spherical wheels named ORBITRON and a unique control algorithm. 
 The project began as a simple yet powerful urge to build a vehicle with spherical wheels after being inspired by [Goodyear 360](https://youtu.be/oSFYwDDVgac) but soon evolved into a research project under Kent Guild, academic society at Kent School, after realizing vehicle's potential. After presenting a project proposal in front of Kent Pre-Engineering Department, Project Orbitron was granted with $1,000 fund.
 
 The finished algorithm is going through a patent process as of October 2020. (*Application Number: KR 10-2019-0087022*)
