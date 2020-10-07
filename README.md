@@ -33,7 +33,7 @@
   <h3 align="center">Project Orbitron</h3>
 
   <p align="center">
-    A unique control algorithm in Mathematica for 4WIS/WID vehicles
+    A 4WIS/4WID Vehicle with Spherical Wheels & A unique control algorithm in Mathematica
     <br />
     <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
     <br />
