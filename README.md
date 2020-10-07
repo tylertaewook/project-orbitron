@@ -40,7 +40,7 @@
     <a href="https://github.com/tylertaewook/project-orbitron"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tylertaewook/project-orbitron">View Demo</a>
+    <a href="https://youtu.be/WXjisSnfGTI">View Demo</a>
     ·
     <a href="https://github.com/tylertaewook/project-orbitron/issues">Report Bug</a>
     ·
