@@ -52,25 +52,56 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [Orbitron](#orbitron)
+  * [Algorithm](#algorithm)
+* [Build Notes](#build-notes)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
+================================================================
+> **[[LINK - MAKER PORTFOLIO]](https://youtu.be/WXjisSnfGTI)**
 
+================================================================
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Project Orbitron is an independent build/research project done in December 2017 - March 2018. 
+The project began as a simple yet powerful urge to build a vehicle with spherical wheels after being inspired by [Goodyear 360](https://youtu.be/oSFYwDDVgac) but soon evolved into a research project under Kent Guild, academic society at Kent School, after realizing vehicle's potential. After presenting a project proposal in front of Kent Pre-Engineering Department, Project Orbitron was granted with $1,000 fund.
+
+The finished algorithm is going through a patent process as of October 2020. (*Application Number: KR 10-2019-0087022*)
+
+The project is divided into two big components:
+* Building a vehicle with a spherical wheel that implements a 4 wheel independent steering/driving system in Arduino and C# Winform Application.
+* Development of a unique control algorithm in Mathematica
+
+<!-- ORBITRON -->
+### Orbitron
+
 ![Orbitron](/images/orbitron1.jpeg)
 
-Here's a blank template to get started:
+Simply put, Orbitron is a vehicle with spherical wheels. The spherical wheels allow the efficient implementation of a 4WIS/4WID (4 Wheel Independent Steering/Driving) system. 4WIS/4WID is a steering system for a four-wheeled vehicle that allows for separate speed and direction controls for each wheel.
+To accomplish this, each wheel has two separate motors each controlling speed and direction.
+
+![Orbitron](/images/Software/test_GUI.png)
+
+While building the Orbitron, a simple C# WinForms application was developed. This application communicates with Orbitron via XBee wireless module and controls simple movements to ensure every component is working properly.
+
+<!-- ALGORITHM -->
+### Algorithm
+
+![Mathematica Algorithm](/images/Software/alg_GUI.png)
+
+This intuitive control algorithm written in Mathematica is an attempt to control a 4WIS/4WID vehicle requiring intuitive yet simultaneous control of eight different parameters. I used 3dconnexion's [Spacemouse](https://3dconnexion.com/us/product/spacemouse-compact/) as an input device, and its inputs were integrated coherently by modeling the vehicle's movement as a motion along a circular path, where a straight-line motion is calculated as a motion along a circle of very large radius.
+
+![XBee Module](/images/Orbitron/xbee.jpeg)
+
+Similar to the C# WinForms application, this algorithm communicates with Orbitron via XBee module. The XBee module integrated in Orbitron's Arduino shield allows maximum range of one mile.
+
+<!-- BUILD NOTES -->
+## Build Notes
 
 
-### Built With
-
-* [Arduino]()
-* [Mathematica]()
-* [C# WinForms]()
 
 <!-- CONTACT -->
 ## Contact
