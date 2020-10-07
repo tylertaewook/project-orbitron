@@ -162,7 +162,7 @@ As this was the largest build project I have done so far, I encountered many MAN
 The research of intuitive control algorithm took approximately three months, from Jan 2018 to March 2018. In this short time, I taught myself Mathematica from scratch, finished the algorithm, wrote a full paper, and presented to both Kent Guild and Connecticut Science and Engineering Fair.
 As a result, I was accepted to be one of three student members in Kent Guild, an academic society at Kent, and I was awarded with sevel awards from CT Science Fair.
 
-Kent News Feature (yes, TWO TIMES!)
+Kent News Feature (yes, twice!)
 * [Kent News - Guild Presentation](https://kentnews.org/2525/features/a-guild-presentation-by-tyler-kim-20/)
 * [Kent News - CT Science Fair](https://kentnews.org/2382/features/an-outstanding-performance-at-the-71st-annual-connecticut-science-and-engineering-fair/)
 
@@ -187,8 +187,8 @@ Project Link: [https://github.com/tylertaewook/project-orbitron](https://github.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Dr. Ben Nadire, Guild Advisor]()
-* [Mr. Kevin Saxton, AP Computer Science Instructor]()
+* [Dr. Ben Nadire, Guild Advisor]
+* [Mr. Kevin Saxton, AP Computer Science Instructor]
 
 
 
