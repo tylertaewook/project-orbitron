@@ -33,7 +33,7 @@
   <h3 align="center">Project Orbitron</h3>
 
   <p align="center">
-    A 4WIS/4WID Vehicle with Spherical Wheels & A unique control algorithm in Mathematica
+    A 4WIS/4WID Vehicle with Spherical Wheels & A unique control algorithm in Mathematica <br />PATENTED (KR. PATENT 10-2268833)
     <p align="center">
       December 2017 - May 2018
     <br />
